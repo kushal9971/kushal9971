@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1600&h=420" width="100%" style="border-radius:16px;" />
+<!-- 🔥 CRAZY AI BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Kushal%20Shukla&fontAlign=50&fontAlignY=40&fontSize=70&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Solution%20Architect&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
 <h1>🚀 Kushal Shukla</h1>
 <h3>Full Stack Engineer • AI Integrator • Solution Builder</h3>
