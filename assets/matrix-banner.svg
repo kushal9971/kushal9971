@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#02010a"/>
+      <stop offset="0.45" stop-color="#001b12"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+
+    <!-- Neon glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0
+                0 1 0 0 0
+                0 0 0 0 0
+                0 0 0 0.9 0" result="greenGlow"/>
+      <feMerge>
+        <feMergeNode in="greenGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Harder glow for title -->
+    <filter id="hardGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="0 0 0 0 0
+                0 1 0 0 0
+                0 0 0 0 0
+                0 0 0 1 0" result="g"/>
+      <feMerge>
+        <feMergeNode in="g"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanlines -->
+    <pattern id="scanlines" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1" fill="#00ff7a" opacity="0.06"/>
+    </pattern>
+
+    <!-- Noise (animated) -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" seed="2">
+        <animate attributeName="seed" dur="2s" values="1;2;3;4;5;6;7;8" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feColorMatrix type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.06 0"/>
+    </filter>
+
+    <!-- Glitch displacement -->
+    <filter id="glitch">
+      <feTurbulence type="turbulence" baseFrequency="0.012" numOctaves="1" seed="8" result="turb">
+        <animate attributeName="baseFrequency" dur="2.4s" values="0.008;0.02;0.01;0.015;0.008" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="turb" scale="12" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- Matrix text pattern -->
+    <pattern id="matrixText" width="260" height="120" patternUnits="userSpaceOnUse">
+      <text x="0" y="24" font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.16">
+        101001 011010 110010 001011 010101 111000
+      </text>
+      <text x="0" y="52" font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.12">
+        010011 111010 000110 101101 001001 010110
+      </text>
+      <text x="0" y="80" font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.14">
+        111000 010101 001011 110010 011010 101001
+      </text>
+      <text x="0" y="108" font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.10">
+        001101 100101 011100 010010 111001 000111
+      </text>
+    </pattern>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#matrixText)" opacity="0.9"/>
+
+  <!-- Animated matrix rain columns -->
+  <g opacity="0.85" filter="url(#glow)">
+    <g font-family="monospace" font-size="18" fill="#00ff7a">
+      <!-- Column 1 -->
+      <text x="80" y="-20">101001110010011001001101010110111000</text>
+      <animateTransform attributeName="transform" type="translate" dur="2.6s" values="0 0;0 520" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="20" fill="#00ff7a" opacity="0.75">
+      <text x="220" y="-80">010011111010000110101101001001010110</text>
+      <animateTransform attributeName="transform" type="translate" dur="3.1s" values="0 0;0 560" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="16" fill="#00ff7a" opacity="0.65">
+      <text x="390" y="-120">111000010101001011110010011010101001</text>
+      <animateTransform attributeName="transform" type="translate" dur="2.2s" values="0 0;0 600" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="19" fill="#00ff7a" opacity="0.7">
+      <text x="560" y="-40">001101100101011100010010111001000111</text>
+      <animateTransform attributeName="transform" type="translate" dur="2.9s" values="0 0;0 540" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="17" fill="#00ff7a" opacity="0.6">
+      <text x="740" y="-160">110010011010101001111000010101001011</text>
+      <animateTransform attributeName="transform" type="translate" dur="3.4s" values="0 0;0 640" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="21" fill="#00ff7a" opacity="0.75">
+      <text x="940" y="-60">010110111000101001110010011001001101</text>
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" values="0 0;0 560" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.55">
+      <text x="1120" y="-140">000111001101100101011100010010111001</text>
+      <animateTransform attributeName="transform" type="translate" dur="3.0s" values="0 0;0 620" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="monospace" font-size="16" fill="#00ff7a" opacity="0.55">
+      <text x="1320" y="-30">101101001001010110010011111010000110</text>
+      <animateTransform attributeName="transform" type="translate" dur="2.7s" values="0 0;0 520" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Scanlines overlay -->
+  <rect width="1600" height="420" fill="url(#scanlines)" opacity="0.55"/>
+
+  <!-- Subtle noise -->
+  <rect width="1600" height="420" filter="url(#noise)" opacity="0.8"/>
+
+  <!-- Neon corner frame -->
+  <rect x="22" y="22" width="1556" height="376" rx="18" fill="none" stroke="#00ff7a" stroke-opacity="0.25" stroke-width="2"/>
+
+  <!-- Glitch Title -->
+  <g filter="url(#glitch)">
+    <!-- Shadow layers for glitch -->
+    <text x="80" y="190" font-family="monospace" font-size="64" fill="#00ff7a" filter="url(#hardGlow)" opacity="0.96">
+      KUSHAL SHUKLA
+      <animate attributeName="opacity" dur="2.8s" values="0.95;0.8;0.98;0.85;0.96" repeatCount="indefinite"/>
+    </text>
+
+    <text x="84" y="192" font-family="monospace" font-size="64" fill="#00d1ff" opacity="0.28">
+      KUSHAL SHUKLA
+      <animate attributeName="x" dur="1.8s" values="84;80;86;82;84" repeatCount="indefinite"/>
+    </text>
+
+    <text x="76" y="188" font-family="monospace" font-size="64" fill="#ff2bd6" opacity="0.22">
+      KUSHAL SHUKLA
+      <animate attributeName="x" dur="2.2s" values="76;80;74;78;76" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="82" y="242" font-family="monospace" font-size="22" fill="#a8ffcf" opacity="0.95" filter="url(#glow)">
+    FULL STACK • AI ENGINEER • RAG • MCP • CLOUD
+  </text>
+
+  <!-- “Terminal” badge -->
+  <g transform="translate(80,278)">
+    <rect x="0" y="0" width="620" height="80" rx="14" fill="#000" opacity="0.55" stroke="#00ff7a" stroke-opacity="0.35"/>
+    <text x="18" y="34" font-family="monospace" font-size="18" fill="#00ff7a" opacity="0.95">
+      $ building enterprise systems + AI automation...
+    </text>
+    <text x="18" y="62" font-family="monospace" font-size="18" fill="#a8ffcf" opacity="0.92">
+      node.js • .net core • angular • sql • azure/aws
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="585" y="46" width="10" height="18" fill="#00ff7a">
+      <animate attributeName="opacity" dur="0.85s" values="1;0;1" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
