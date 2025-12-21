@@ -3,13 +3,13 @@
 <!-- ========================= -->
 
 <div align="center">
-
+<h1>🚀 Kushal Shukla</h1>
+<h3>Full Stack Engineer • AI Integrator • Solution Builder</h3>
 <img src="https://raw.githubusercontent.com/kushal9971/kushal9971/main/assets/matrix-banner.svg" width="100%" />
 
 
 
-<h1>🚀 Kushal Shukla</h1>
-<h3>Full Stack Engineer • AI Integrator • Solution Builder</h3>
+
 
 <p>
   <a href="https://kushalshukla.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -111,6 +111,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal9971" />
 </div>
+
+![snake gif](https://raw.githubusercontent.com/kushal9971/kushal9971/output/github-contribution-grid-snake.svg)
+
 
 ---
 
