@@ -1,57 +1,131 @@
-# 🚀 Kushal Shukla | Full Stack & AI Engineer
-![Professional Developer Banner](https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1200&h=300)
+<!-- ========================= -->
+<!--   KUSHAL SHUKLA README    -->
+<!-- ========================= -->
 
-### 💠 Background
-**Software Engineer | AI Integrator | Solution Architect** *Joined many years ago — 6 years ago*
+<div align="center">
 
-I am a Full Stack Developer dedicated to building high-performance applications that bridge the gap between complex backend logic and intuitive user experiences. My focus lies at the intersection of **Enterprise SaaS** and **Generative AI**, crafting tools that empower users through automation and intelligent data retrieval.
+<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1600&h=420" width="100%" style="border-radius:16px;" />
+
+<h1>🚀 Kushal Shukla</h1>
+<h3>Full Stack Engineer • AI Integrator • Solution Builder</h3>
+
+<p>
+  <a href="https://kushalshukla.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kushalshukla9971"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kushalshukla9971@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kushal9971&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/kushal9971?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/kushal9971?label=Stars&style=flat" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Building+enterprise-grade+apps+%F0%9F%9A%80;Node.js+%7C+.NET+Core+%7C+SQL+Server+%7C+Angular+%7C+Cloud;RAG+Systems+%7C+GPT+Apps+%7C+MCP+Servers+%7C+Automation" />
+
+</div>
+
+---
+
+## ✨ About Me
+
+- 🧠 Full Stack Engineer focused on **enterprise apps + AI integrations**
+- ⚙️ Building **APIs, admin panels, automation pipelines & dashboards**
+- 🤖 Strong interest in **RAG systems, GPT apps & MCP servers**
+- ☁️ Hands-on with **Cloud, CI/CD & scalable architectures**
+- 📫 Reach me: **kushalshukla9971@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,html,css" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express,postgres,mysql,mongodb,redis" />
+
+**DevOps / Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,nginx,githubactions" />
+
+**AI / Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,postman,vscode" />
+
+</div>
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🤖 AccessonAI
-**The Ultimate AI Integration Platform** *Simplifying the way businesses interact with Large Language Models.*
+### 🤖 AccessonAI — AI Integration Platform
+- Multi-model orchestration, enterprise security, automation-first design  
+- **Stack:** Node.js, React, PostgreSQL, LLM APIs  
+- 🌐 https://accessonai.com  
+- 📁 https://github.com/kushal9971  
 
-* **Key Features:** Multi-model orchestration, seamless API integration, and enterprise-grade security.
-* **Tech Stack:** Node.js, React, PostgreSQL, LLM APIs.
-* [**🌐 Live Demo**](https://accessonai.com) 
-
----
-
-### 🗺️ Pahadi Bhulla
-**AI-Integrated Travel Intelligence** *Your intelligent companion for exploring the hidden gems of the Himalayas.*
-
-* **Key Features:** AI-driven personalized travel itineraries, real-time suggestion engine, and cultural insights.
-* **Tech Stack:** .NET Core, Angular, OpenAI Integration, Azure.
-* [**🌐 Live Demo**](https://pahadi-bhulla.vercel.app/) 
-
----
+### 🗺️ Pahadi Bhulla — AI Travel Intelligence
+- Personalized itineraries, cultural insights, smart recommendations  
+- **Stack:** .NET Core, Angular, OpenAI, Azure  
+- 🌐 https://pahadi-bhulla.vercel.app/  
+- 📁 https://github.com/kushal9971  
 
 ### 🎨 Personal Portfolio
-**Digital Identity & Showcase** *A high-performance interactive space showcasing architectural patterns and deep-tech expertise.*
-
-* **Key Features:** Responsive design, project deep-dives, and optimized asset loading.
-* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion.
-* [**🌐 Live Demo**](https://kushalshukla.vercel.app/) 
-
----
-
-## 🛠️ Core Expertise
-
-| **Frontend** | **Backend** | **AI & Cloud** |
-| :--- | :--- | :--- |
-| Angular, React, Next.js | .NET Core, Node.js, C# | RAG Systems, GPT Apps |
-| TypeScript, Tailwind CSS | SQL Server, RabbitMQ | MCP Servers, Azure, AWS |
+- High-performance UI, responsive, animated  
+- **Stack:** Next.js, TypeScript, Tailwind, Framer Motion  
+- 🌐 https://kushalshukla.vercel.app/  
+- 📁 https://github.com/kushal9971  
 
 ---
 
-## 📬 Get In Touch
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://kushalshukla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
-<a href="https://linkedin.com/in/kushalshukla9971"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:kushalshukla9311@zohomail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushal9971&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal9971&layout=compact&langs_count=10" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=kushal9971" />
+
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushal9971&row=1&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal9971" />
+</div>
+
+---
+
+## 🧠 What I’m Working On
+
+- ✅ Enterprise **Admin Panels & Dashboards**
+- ✅ **AI-powered internal tools** (RAG + automation)
+- ✅ **MCP server integrations**
+- ✅ Cloud deployments with CI/CD
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kushalshukla9971"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kushalshukla9971@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
