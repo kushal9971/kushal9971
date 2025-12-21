@@ -15,7 +15,7 @@ I am a Full Stack Developer dedicated to building high-performance applications 
 
 * **Key Features:** Multi-model orchestration, seamless API integration, and enterprise-grade security.
 * **Tech Stack:** Node.js, React, PostgreSQL, LLM APIs.
-* [**🌐 Live Demo**](https://accessonai.com) | [**📁 Source Code**](https://github.com/kushal9971)
+* [**🌐 Live Demo**](https://accessonai.com) 
 
 ---
 
@@ -24,7 +24,7 @@ I am a Full Stack Developer dedicated to building high-performance applications 
 
 * **Key Features:** AI-driven personalized travel itineraries, real-time suggestion engine, and cultural insights.
 * **Tech Stack:** .NET Core, Angular, OpenAI Integration, Azure.
-* [**🌐 Live Demo**](https://pahadi-bhulla.vercel.app/) | [**📁 Source Code**](https://github.com/kushal9971)
+* [**🌐 Live Demo**](https://pahadi-bhulla.vercel.app/) 
 
 ---
 
@@ -33,7 +33,7 @@ I am a Full Stack Developer dedicated to building high-performance applications 
 
 * **Key Features:** Responsive design, project deep-dives, and optimized asset loading.
 * **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion.
-* [**🌐 Live Demo**](https://kushalshukla.vercel.app/) | [**📁 Source Code**](https://github.com/kushal9971)
+* [**🌐 Live Demo**](https://kushalshukla.vercel.app/) 
 
 ---
 
