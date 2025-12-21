@@ -1,67 +1,57 @@
-# 🚀 Hi there, I'm Kushal Shukla | Full Stack & AI Engineer
+# 🚀 Kushal Shukla | Full Stack & AI Engineer
+![Professional Developer Banner](https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1200&h=300)
+
+### 💠 Background
+**Software Engineer | AI Integrator | Solution Architect** *Joined many years ago — 6 years ago*
+
+I am a world-class Full Stack Developer dedicated to building high-performance applications that bridge the gap between complex backend logic and intuitive user experiences. My focus lies at the intersection of **Enterprise SaaS** and **Generative AI**, crafting tools that empower users through automation and intelligent data retrieval.
+
+---
+
+## 🏗️ Featured Projects
+
+### 🤖 AccessonAI
+**The Ultimate AI Integration Platform** *Simplifying the way businesses interact with Large Language Models.*
+
+* **Key Features:** Multi-model orchestration, seamless API integration, and enterprise-grade security.
+* **Tech Stack:** Node.js, React, PostgreSQL, LLM APIs.
+* [**🌐 Live Demo**](https://accessonai.com) | [**📁 Source Code**](https://github.com/kushal9971)
+
+---
+
+### 🗺️ Pahadi Bhulla
+**AI-Integrated Travel Intelligence** *Your intelligent companion for exploring the hidden gems of the Himalayas.*
+
+* **Key Features:** AI-driven personalized travel itineraries, real-time suggestion engine, and cultural insights.
+* **Tech Stack:** .NET Core, Angular, OpenAI Integration, Azure.
+* [**🌐 Live Demo**](https://pahadi-bhulla.vercel.app/) | [**📁 Source Code**](https://github.com/kushal9971)
+
+---
+
+### 🎨 Personal Portfolio
+**Digital Identity & Showcase** *A high-performance interactive space showcasing architectural patterns and deep-tech expertise.*
+
+* **Key Features:** Responsive design, project deep-dives, and optimized asset loading.
+* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion.
+* [**🌐 Live Demo**](https://kushalshukla.vercel.app/) | [**📁 Source Code**](https://github.com/kushal9971)
+
+---
+
+## 🛠️ Core Expertise
+
+| **Frontend** | **Backend** | **AI & Cloud** |
+| :--- | :--- | :--- |
+| Angular, React, Next.js | .NET Core, Node.js, C# | RAG Systems, GPT Apps |
+| TypeScript, Tailwind CSS | SQL Server, RabbitMQ | MCP Servers, Azure, AWS |
+
+---
+
+## 📬 Get In Touch
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Main_Stack-Node.js%20%7C%20.NET%20%7C%20Angular-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20RAG%20Systems-orange?style=for-the-badge">
+<a href="https://kushalshukla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
+<a href="https://linkedin.com/in/kushalshukla9971"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:kushalshukla9971@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
 ---
-
-### 👨‍💻 About Me
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>I am a <b>Software Engineer</b> specializing in building scalable enterprise applications. Currently, I am deep-diving into the <b>Model Context Protocol (MCP)</b> and <b>Generative AI</b> to bridge the gap between traditional SaaS and AI-driven automation.</p>
-      <ul>
-        <li>🔭 <b>Working on:</b> Full Stack apps with Node.js/.NET Core and custom GPT integrations.</li>
-        <li>🌱 <b>Learning:</b> Advanced RAG Architectures & Cloud Infrastructure (Azure/AWS).</li>
-        <li>👯 <b>Collaborating:</b> Open-source AI tools and LLM-powered web apps.</li>
-        <li>💬 <b>Ask me about:</b> SQL Optimization, API Architecture, and Angular.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushal9971&theme=dark" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 My Tech Universe
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nodejs,nextjs,react,html,css,mssql,azure,cloudflare,rabbitmq,git,gitlab,docker,postman,vite&perline=9" />
-  </a>
-</p>
-
----
-
-### 📊 Performance & Impact Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushal9971&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal9971&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal9971&theme=tokyonight&hide_border=false" width="94%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal9971&theme=dark" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushal9971&theme=dark" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushal9971&theme=dark" width="31%" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/kushalshukla9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalshukla9971" height="30" width="40" /></a>
-<a href="https://medium.com/@kushal9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kushal9971" height="30" width="40" /></a>
-</p>
-
----
-
-### ⚡ Dev Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal9971&theme=tokyonight&hide_border=false)
-
-<p align="right"><i>Last updated: Dec 2025</i></p>
