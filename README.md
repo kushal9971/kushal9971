@@ -1,49 +1,67 @@
-# 💫 About Me:
-🔭 **I’m currently working on** building robust Full Stack applications using Node.js, .NET Core, and Angular, while integrating MCP (Model Context Protocol) servers and custom GPT apps.<br>
-👯 **I’m looking to collaborate on** Open-source AI projects, Generative AI tools, and innovative web applications that leverage the power of LLMs.<br>
-🤝 **I’m looking for help with** Scaling complex RAG (Retrieval-Augmented Generation) systems and optimizing cloud infrastructure.<br>
-🌱 **I’m currently learning** Advanced RAG architectures, Cloud System architecture (Azure/AWS), and the latest developments in GPT-based automation.<br>
-💬 **Ask me about** Full stack development (Angular & .NET), SQL database design, API orchestration, and building custom GPTs.<br>
-⚡ **Fun fact** I enjoy solving complex integration problems—connecting frontends to databases and bridging the gap between human language and machine code!
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalshukla9971) 
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://kushal9971.github.io/)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kushal9971&theme=dracula&no-frame=false&margin-w=15&column=7)
-
----
-
-## 📊 Detailed Stats & Activity:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushal9971&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal9971&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal9971&theme=dark&hide_border=false" />
-</p>
-
-### 🛠 Tech Stack:
+# 🚀 Hi there, I'm Kushal Shukla | Full Stack & AI Engineer
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nodejs,nextjs,react,html,css,mssql,azure,cloudflare,rabbitmq,git,gitlab,vite,npm&perline=9" />
+  <img src="https://img.shields.io/badge/Main_Stack-Node.js%20%7C%20.NET%20%7C%20Angular-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20RAG%20Systems-orange?style=for-the-badge">
 </p>
 
 ---
 
-## 📈 Coding Activity (Past 7 Days)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=kushal9971&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About Me
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>I am a <b>Software Engineer</b> specializing in building scalable enterprise applications. Currently, I am deep-diving into the <b>Model Context Protocol (MCP)</b> and <b>Generative AI</b> to bridge the gap between traditional SaaS and AI-driven automation.</p>
+      <ul>
+        <li>🔭 <b>Working on:</b> Full Stack apps with Node.js/.NET Core and custom GPT integrations.</li>
+        <li>🌱 <b>Learning:</b> Advanced RAG Architectures & Cloud Infrastructure (Azure/AWS).</li>
+        <li>👯 <b>Collaborating:</b> Open-source AI tools and LLM-powered web apps.</li>
+        <li>💬 <b>Ask me about:</b> SQL Optimization, API Architecture, and Angular.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushal9971&theme=dark" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🛠 My Tech Universe
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nodejs,nextjs,react,html,css,mssql,azure,cloudflare,rabbitmq,git,gitlab,docker,postman,vite&perline=9" />
+  </a>
+</p>
+
+---
+
+### 📊 Performance & Impact Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushal9971&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal9971&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+</p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kushal9971&icon=0&color=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal9971&theme=tokyonight&hide_border=false" width="94%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal9971&theme=dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushal9971&theme=dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushal9971&theme=dark" width="31%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/kushalshukla9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalshukla9971" height="30" width="40" /></a>
+<a href="https://medium.com/@kushal9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kushal9971" height="30" width="40" /></a>
+</p>
+
+---
+
+### ⚡ Dev Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal9971&theme=tokyonight&hide_border=false)
+
+<p align="right"><i>Last updated: Dec 2025</i></p>
