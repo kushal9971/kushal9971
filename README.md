@@ -4,7 +4,7 @@
 ### 💠 Background
 **Software Engineer | AI Integrator | Solution Architect** *Joined many years ago — 6 years ago*
 
-I am a world-class Full Stack Developer dedicated to building high-performance applications that bridge the gap between complex backend logic and intuitive user experiences. My focus lies at the intersection of **Enterprise SaaS** and **Generative AI**, crafting tools that empower users through automation and intelligent data retrieval.
+I am a Full Stack Developer dedicated to building high-performance applications that bridge the gap between complex backend logic and intuitive user experiences. My focus lies at the intersection of **Enterprise SaaS** and **Generative AI**, crafting tools that empower users through automation and intelligent data retrieval.
 
 ---
 
