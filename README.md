@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0f9b0f&text=AI%20%7C%20CODE%20%7C%20SCALE&fontColor=00ff00&fontSize=60&animation=scaleIn&desc=Node.js%20.NET%20Angular%20RAG%20MCP&descAlignY=70" width="100%" />
+<img src="https://raw.githubusercontent.com/kushal9971/kushal9971/main/assets/matrix-banner.svg" width="100%" />
+
 
 
 <h1>🚀 Kushal Shukla</h1>
