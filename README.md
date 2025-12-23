@@ -63,10 +63,10 @@
 
 ## 🏗️ Featured Projects
 
-### 🤖 AccessonAI — AI Integration Platform
+### 🤖 Ai Madhav - a LLM chat bot
 - Multi-model orchestration, enterprise security, automation-first design  
-- **Stack:** Node.js, React, PostgreSQL, LLM APIs  
-- 🌐 https://accessonai.com
+- **Stack:** Node.js, React, PostgreSQL, LLM APIs, RAG
+- 🌐 https://aimadhav.in
 
 ### 🗺️ Pahadi Bhulla — AI Travel Intelligence
 - Personalized itineraries, cultural insights, smart recommendations  
